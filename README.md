@@ -1,6 +1,6 @@
 # Bahadır Tarık Alioğlu
 
-> **Student excited to learn also programmer** 
+> **Student excited to learn, also programmer** 
 
 I am a programmer and student. The world of coding has always fascinated me. And I continue to take firm steps on this path.
 Now I am learning mobile programming in flutter.
