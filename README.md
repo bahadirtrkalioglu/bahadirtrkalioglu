@@ -30,3 +30,5 @@ Now I am learning mobile programming in flutter.
 #
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahadirtrkalioglu&layout=compact)](https://github.com/bahadirtrkalioglu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahadirtrkalioglu&layout=compact)](https://github.com/bahadirtrkalioglu/github-readme-stats)
