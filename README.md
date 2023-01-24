@@ -25,7 +25,7 @@ Now I am learning mobile programming in flutter.
 ## Stats
 
 
-![Bahadır's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahadirtrkalioglu&show_icons=true&theme=onedark)
+![Bahadır's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bahadirtrkalioglu&show_icons=true&theme=dark#gh-dark-mode-only)]
 
 #
 
