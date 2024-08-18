@@ -1,4 +1,4 @@
-# Bahadır Tarık Alioğlu
+# Bahadır Alioğlu
 
 > **Student excited to learn, also programmer** 
 
@@ -19,11 +19,11 @@ Email: bahadirtrk.social@tutanota.com
 <img align="left" alt="Git" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="left" alt="Figma" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 
-<br>
+<br><br><br>
 
 ## Stats
 
-![Bahadır's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bahadirtrkalioglu&show_icons=true&theme=tokyonight)]
+![Bahadır's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bahadirtrkalioglu&show_icons=true&theme=tokyonight)
 
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahadirtrkalioglu&theme=tokyonight)
