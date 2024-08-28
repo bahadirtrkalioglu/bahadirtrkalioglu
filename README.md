@@ -6,7 +6,7 @@ I am a programmer and student. The world of coding has always fascinated me. And
 Now I am learning mobile programming in flutter.
 
 ## Contact
-Email: bahadirtrk.social@tutanota.com
+Email: bahadirtrk@proton.me 
 
 ## Languages and Tools
 
