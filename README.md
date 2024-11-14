@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bahadır alioğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahadır alioğlu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bahad%C4%B1r-alio%C4%9Flu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahadır alioğlu" height="30" width="40" /></a>
 <a href="https://dribbble.com/bahadirtrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bahadirtrk" height="30" width="40" /></a>
 </p>
 
