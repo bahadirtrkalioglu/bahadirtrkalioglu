@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Bahadır Alioğlu</h1>
 <h3 align="center">A Mobile application developer and student.</h3>
 
-- 📫 How to reach me **bahadirtrk@proton.me**
+- 📫 How to reach me **bahadirtrk@duck.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
